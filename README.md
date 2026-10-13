@@ -1,82 +1,42 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hemant+Kumar+Gola;Full+Stack+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemantgola421&label=Profile+views&color=brightgreen&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/hemantgola421?label=Follow&style=social" />
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HemantKumar01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 ---
 
-## 👋 Hello there!
+### 👋 Hello there!
 
-- 💻 I'm a **Full Stack Developer** passionate about building modern web applications.
-- 🌱 I'm currently exploring advanced concepts in **React.js**, **Node.js**, and **MongoDB**.
-- 🚀 I love working on **MERN Stack** projects and solving real-world problems through code.
-- 💬 Feel free to reach out for collaborations, consulting, or just a tech chat!
-- 📫 You can email me at **hemantgola421@gmail.com** — I'll respond as soon as possible!
-- 📞 Contact: **+91 7618152665**
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* 💻 I'm a **Java Backend Developer** specialized in building scalable backend systems and Microservices architectures.
+* ☕ Strong foundation in **Java, Spring Boot, Hibernate, Microservices**, and **SQL databases**.
+* 🧠 Passionate about **Data Structures & Algorithms (DSA)** and continuous problem solving.
+* ⚛️ Experienced in frontend integration with **React.js**.
+* 💬 Open to collaborations, software development projects, and engineering opportunities!
+* 📬 **Email:** [hemantgola421@gmail.com](mailto:hemantgola421@gmail.com)
+* 📞 **Contact:** +91 7618152665
 
 ---
 
-## 🧩 LeetCode Stats
+### 🛠️ Core Tech Stack
 
-<p align="center">
-  <a href="https://leetcode.com/u/hemantkumargola/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/hemantkumargola?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
+#### Backend & Microservices Architecture
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=gear&logoColor=white)
 
----
+#### Data Structures & Algorithms
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=for-the-badge&logo=codeforces&logoColor=white)
 
-## 📬 How to reach me
+#### Databases & SQL
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemant-kumar-gola-02016829a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/HemantGola66481">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:hemantgola421@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/hemantkumargola/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+#### Frontend
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-kumar-a6ba8815a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantgola421@gmail.com)
