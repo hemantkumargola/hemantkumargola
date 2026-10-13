@@ -6,13 +6,12 @@
 
 ### 👋 Hello there!
 
-* 💻 I'm a **Java Backend Developer** specialized in building scalable backend systems and Microservices architectures.
+* 💻 I'm a **Top Java Backend Developer** specialized in building scalable backend systems and Microservices architectures.
 * ☕ Strong foundation in **Java, Spring Boot, Hibernate, Microservices**, and **SQL databases**.
 * 🧠 Passionate about **Data Structures & Algorithms (DSA)** and continuous problem solving.
 * ⚛️ Experienced in frontend integration with **React.js**.
 * 💬 Open to collaborations, software development projects, and engineering opportunities!
 * 📬 **Email:** [hemantgola421@gmail.com](mailto:hemantgola421@gmail.com)
-* 📞 **Contact:** +91 7618152665
 
 ---
 
